@@ -13,10 +13,16 @@ Tradução (PT-BR) do jogo **[I Can Smell You from Here](https://catproblem9735.
 ---
 
 ## 🛠️ Sobre a Localização
-* **Jogo Original:** [I Can Smell You from Here no Itch.io](https://catproblem9735.itch.io/i-can-smell-you-from-here)
-* **Desenvolvedor:** catproblem9735
-* **Tradução:** codeholow
-* **Método Técnico:** Patcheamento direto de binário via Godot RE Tools.
+- **Jogo Original:** [I Can Smell You from Here no Itch.io](https://catproblem9735.itch.io/i-can-smell-you-from-here)
+- **Desenvolvedor:** catproblem9735
+- **Tradução:** codeholow
+- **Método Técnico:** Patcheamento direto de binário via Godot RE Tools.
+
+---
+
+## 📢 Note for the Developer (catproblem9735)
+
+The repository includes the raw localized JSON file (`dialogue-pt-br.json`). Feel free to use this file to add native Portuguese (PT-BR) support to the game directly!
 
 ---
 
