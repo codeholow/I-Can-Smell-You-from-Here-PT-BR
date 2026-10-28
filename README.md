@@ -6,9 +6,10 @@ Tradução (PT-BR) do jogo **[I Can Smell You from Here](https://catproblem9735.
 
 ## 🚀 Como Instalar
 
-1. Localize a pasta onde o jogo está instalado no seu computador.
-2. Copie o arquivo `I Can Smell You from Here.pck` baixado e cole dentro da pasta do jogo, **substituindo** o arquivo original.
-3. Abra o jogo normalmente e aproveite a história em português!
+1. Vá até a seção **[Releases](https://github.com/codeholow/i-can-smell-you-from-here-ptbr/releases)** no canto direito desta página e baixe o arquivo `I Can Smell You from Here.zip`.
+2. Localize a pasta onde o jogo está instalado no seu computador.
+3. Copie o arquivo `I Can Smell You from Here.pck` baixado e cole dentro da pasta do jogo, **substituindo** o arquivo original.
+4. Abra o jogo normalmente e aproveite a história em português!
 
 ---
 
@@ -20,9 +21,9 @@ Tradução (PT-BR) do jogo **[I Can Smell You from Here](https://catproblem9735.
 
 ---
 
-## 📢 Note for the Developer (catproblem9735)
+## ✉️ Note for the Developer (catproblem9735)
 
-The repository includes the raw localized JSON file (`dialogue-pt-br.json`). Feel free to use this file to add native Portuguese (PT-BR) support to the game directly!
+> *If you're the creator of "I Can Smell You from Here", the `dialogue-pt-br.json` file in this repository contains the raw translated string table. You can freely use it to implement native Portuguese (PT-BR) support into your Godot project if you'd like!*
 
 ---
 
